@@ -1,0 +1,1 @@
+This is Logowish's first git project!
